@@ -12,11 +12,11 @@ Before you start, make sure to install all the necessary libraries:
 
 These libraries are essential for the following tasks:
 
-**PyTorch:** A deep learning framework used to handle tensor operations and manage the model.  
-**transformers:** A library from Hugging Face that provides pre-trained models and tokenizers.  
-**requests:** For making HTTP requests to get data from websites.  
-**beautifulsoup4:** To parse HTML and extract data.  
-**pandas and numpy:** For data manipulation and handling.
+- **PyTorch:** A deep learning framework used to handle tensor operations and manage the model.  
+- **transformers:** A library from Hugging Face that provides pre-trained models and tokenizers.  
+- **requests:** For making HTTP requests to get data from websites.  
+- **beautifulsoup4:** To parse HTML and extract data.  
+- **pandas and numpy:** For data manipulation and handling.
 
 ### 2. Instantiate the Model
 Here, we load the tokenizer and model from Hugging Face:
